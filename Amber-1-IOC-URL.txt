@@ -35,3 +35,4 @@ Secao.org
 Arg.8800.org
 Ambcomission.com
 drivres-update.info
+Softupdates.info
