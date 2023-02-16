@@ -1,0 +1,17 @@
+firefox.exe
+iexplore.exe
+outlook.exe
+opera.exe
+bat.exe
+msimn.exe
+vpngui.exe
+ipseca.exe
+ipsecc.exe
+openvpn.exe
+openssl.exe
+openvpn-gui-1.0.3.exe
+msmsgs.exe
+wuauclt.exe
+chrome.exe
+thebat.exe
+skype.exe
